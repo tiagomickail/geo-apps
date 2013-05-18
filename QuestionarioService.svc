@@ -1,0 +1,1 @@
+﻿<%@ ServiceHost Language="C#" Debug="true" Service="GeoApps.GeoQuest.SecretariaEducacao.Admin.WebServices.QuestionarioService" CodeBehind="QuestionarioService.svc.cs" %>
